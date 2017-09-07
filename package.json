@@ -1,0 +1,26 @@
+{
+  "name": "Workout-App",
+  "version": "1.0.0",
+  "description": "Workout Tracker",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "OSU",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "express": "^4.13.2",
+    "express-handlebars": "^2.0.1",
+    "express-session": "^1.11.3",
+    "handlebars-dateformat": "^1.0.1",
+    "mysql": "^2.8.0"
+  },
+  "keywords": [
+    "example",
+    "heroku"
+  ],
+  "engines": {
+    "node": "8.4.0"
+  }
+}
